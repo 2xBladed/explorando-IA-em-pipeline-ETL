@@ -14,7 +14,7 @@ O script a seguir é responsável por criar um documento Markdown contendo uma t
 
 4. Cria uma lista de tuplas contendo informações de usuário (UserID e UserName) a partir dos dados lidos do arquivo CSV.
 
-5. **(Transform)** Chama a função **create_markdown_string** para criar a tabela Markdown com dicas financeiras personalizadas.
+5. **(Transform)** Chama a função **create_markdown_string** para criar a tabela Markdown com dicas financeiras personalizadas geradas pelo chatGPT.
 
 6. **(Load)** Chama a função **create_md** para salvar a tabela Markdown em um arquivo chamado **"feed.md"**.
 
